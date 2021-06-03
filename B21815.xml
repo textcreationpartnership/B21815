@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the bill now depending for regulation and better government of the Company of painter-Stainer[s of] London: together with some reasons of the principal branches of it.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21815</idno><idno type="EEBO-CITATION">99885929</idno>
+  <idno type="VID">186282</idno>
+  <idno type="EEBO-PROQUEST">2240886677</idno>
+  
+            <idno type="STC">Wing E961</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[82]</idno>
+            <idno type="STC">ESTC R225201</idno>
+            <idno type="PROQUEST">ocm99885929</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885929e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186282)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the bill now depending for regulation and better government of the Company of painter-Stainer[s of] London: together with some reasons of the principal branches of it.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing</note>
+                  <note>Wing has title: "... Company of paper-stainers ...".</note>
+                  <note>Filmed copy imperfect: cropped at edges affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Worshipful Company of Painters --  Early works to 1800.</term>
+               <term type="corporate_name">Company of Plaisterers (London, England) --  Early works to 1800.</term>
+               <term type="topical_term">Trade associations --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186282:1"/>
+            <head>AN ABSTRACT OF THE BILL Now depending for Regulation and better Government of the COMPANY of <hi>Painter-Stainer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> LONDON:</hi> Together with some REASONS of the Principal Branches of it.</head>
+            <p>
+               <note place="margin">
+                  <hi>Preamble, fol.</hi> 1. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eclared so by Stat. 1 <hi>Jac. 20.</hi>
+               </note>REcites it to be an ancient Company and incorporated with Power to Oversee, Rule, and Govern, all the Fellowes of the same Society, and all others using th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> same Art, and all material Works and Merchandize concerning the same.</p>
+            <p>
+               <note place="margin">
+                  <hi>Grievance.</hi>
+               </note>That Aliens and others not free of the Company, for the most part unskilful, use the Art and and take Apprentices.
+<list>
+                  <item>1<seg rend="sup">st.</seg> To the prejudice of the Com<g ref="char:EOLunhyphen"/>pany.</item>
+                  <item>2<seg rend="sup">dly</seg>. To the detriment of the People.</item>
+                  <item>3<seg rend="sup">dly</seg>. The disgrace of the Nation.</item>
+                  <item>And 4<seg rend="sup">thly</seg>. The contempt of the Lawes.</item>
+               </list>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Enacted.</hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. 5. <hi>Eliz.</hi> c. 4. forbids using <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Trade, not being bred <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pprentice to it, in <hi>London,</hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> elsewh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re.</note>That none use the Trade in <hi>London</hi> or <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> miles distance, unlesse bound by Indenture to one of the Company for seven years upo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pain of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> for every offence.</p>
+            <p>
+               <hi>Proviso,</hi> That this Act shall not prejudice those that have already served seven years to any Free-man, and are not as yet free, so that they up their freedoms befo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the 24<seg rend="sup">th.</seg> of <hi>December</hi> 1664.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>anted by the Charter.</note>
+               <hi>Proviso,</hi>That Persons, which for their skill in Painting are now admitted, or hereafter shall be admitted into the Company, shall not be Sued or troubled for working <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Painter within the said <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> miles of <hi>London,</hi> and that they shall not use the said Art within the City of <hi>London,</hi> or the Liberties thereof.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecital Star. 1. <hi>Jac.</hi> cap. 20. <hi>Grievance.</hi>
+               </note>Recites the Act 1<seg rend="sup">o</seg>. <hi>Jac. cap.</hi> 20. That forbids Plaisterers to use the Painters Trade: and the <hi>Proviso</hi> in it, that Plaisterers might use Whiting, Blacking, Red-Lead Red-Oaker, Yellow-Oaker, and Russet mingled with size only and not with oyle, by pretence whereof the Plaisterers use the Painters Trade.</p>
+            <p>
+               <note place="margin">
+                  <hi>Enacted.</hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccording to the Letters Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents of the Company, 19 <hi>July <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3 Eliz.</hi> And the Stat. 1 <hi>Jac.</hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap. 20.</note> ENACTED, That the Plaisterers lay these Colours flat and plain, in size only and not in Oyle, and that in mixing the Colours none shall Glaze them with varni<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon pain of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> for every offence.</p>
+            <p>Gives Power to the Master and Wardens, or any one of them, with some of the Company, not exceeding four in all, at convenient times to search any Places whe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Painting is sold, to see if it be well wrought; and if not, to seize it, and to carry it away, and deface and destroy them.</p>
+            <p>
+               <note place="margin">Stat. 1 <hi>Rich.</hi> 3. c. 9. No stran<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er shall exercise a Handicrafts <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ade, except they first serve Native.</note>The Master, Wardens, Assistants, and Livery, have Power every year to choose twelve of the Company, being skilful Artists, and they or any seven may License N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tives or Strangers, not free of the Company, being Artists, to use the Trade, not taking above <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> pounds for the same, and the Persons licensed paying as others of th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Company.</p>
+            <p>
+               <note place="margin">Granted by their Charter.</note>
+               <hi>That the Master, Wardens, Assistants, and Livery have Power to make Reasonable By-Lawes, for Restriction of the number of Apprentices and Journe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>men, and for other Honourable things, for the better Government of the Company.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tat. 1. <hi>Rich.</hi> 3. cap. 9.</note>That all Aliens, not licenced as aforesaid, shall depart the Realm or work as Journey-men, to a Free-man of the Company, and his name and his Masters to be entred <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Hall Book <hi>gratis,</hi> upon pain of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>The Offences shall be inquired of in the Kings Courts of <hi>Westminster</hi> or the Courts of Record, within the Jurisdiction, whereof the Offences shall so be committed the Justices of <hi>Oyer</hi> and <hi>Terminer,</hi> Goale delivery or of the Peace; and one moiety of the penalties to his Majesties use, and the other moiety with reasonable cost of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Suit to the Plaintiff or Informer.</p>
+            <div type="part">
+               <head>THE REASONS.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>Rich.</hi> 3. c. 9. 14. 15. <hi>Hen. 8. <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 9. 32 H.</hi> 6. c. 16. 5 <hi>Eliz.</hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a. 4.</note> FIrst, There have been several Acts of Parliament formerly made, which will extend to the Principal Branches of this Act, but are ancient and defective in for things, and do not so well regulate and impower the Company to admit those that are skilful in the Art in this manner, but they are all far more severe agai<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> them, then this.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">Stat. 5 <hi>Eliz.</hi> an ill remedy.</note>Secondly, It is certain that the Stat. 5. <hi>Eliz. cap.</hi> 4. Provides, that none shall exercise a Trade, but that penalty being but Forty shillings, which is so little and ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be proved, that it will be in a manner, no remedy to reduce and discover those that work privately, and have not served Seven years; in regard it cannot be do without much charge and diligence, and no costs of Suit recovered in that Action.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, Those that have served Seven years, it is most probable, are more skilful then those that have not served, any time; and besides, their Service and Freedo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are lyable to all Duties of their Company and Taxes. And therefore, if those not free should have a greater Priviledge, it would not onely discourage the Industry the Freemen, but ruine them and the Government of the Society, and make a failer in this Art.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, The Freemen for the most part are House-keepers, and beat all Publick charges; but on the contrary, the others are many of them inconsiderable pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sons, and are very numerous, in and about this City, and have no certain place of Habitation: But if this Act pass, it will bring them under the Government of Company, and make them liable to Taxes for His Majesty.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, If those that are Freemen of the Company of Painter-Stainers, cannot bring in the strangers, which have any equal advantage with the Members of t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <note place="margin">Granted by the Charter to call others to their assistance, and <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dmit them.</note> Company, and to bear and equal burthen with them, which is in a manner granted them by their Charter; the Company cannot be supported, but must inevitably fall, a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> be destroyed, by the encroachment upon them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label>
+                  <hi>If it shall be Objected, That any that shall be famous for Painting, and comes from beyond the Seas, he shall not be admitted to use that Art.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> The former Acts that have passed, provide for that, and do altogether restrain them: And by the Statute <hi>Rich.</hi> 3. if they use this Art, they shall firsit their Person Estate.</p>
+               <p>In relation to the Proviso in the Stat. 1. <hi>Jac. cap.</hi> 4. which gives power to the Plaisterers to lay Whiting, Blacking, Red Lead, Read Oaker, Yellow Oaker, a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Russet, mingled with Size onely.</p>
+               <p>
+                  <label>Answ.</label>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, The very Title of that Act is, <hi>A Plaisterer shall not use the Occupaiton of a Painter;</hi> and the whole Body of that Act is against the Plaisterers, to forb them to use the Art of Painting: The intent of which <hi>Proviso,</hi> was to give them liberty to use it, to lay those Colours plain, as necessary for their Profession about t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Seiling of Rooms, and such like.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, In the same Act, immediately after that <hi>Proviso,</hi> there is a <hi>Proviso</hi> which limits the ways of a Painter, for laying those or other Colours in Size, which a high measure shews the intent of the Act to be as is above set forth.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, The Plaisterers under pretence of this Act, stretching it to their own advantage, incroach very much upon the Painters trade, in regard most peices of goo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Painting may be done by these Colours, with the mixture of them each with the other; whereby the Plaisters being altogether unskilful in that Art, pretend to do sev<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ral Paintings, which are done so ill, as that they cannot deserve the name of Painting, although done at far greater rates then what the Painters usually have for Pain<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ings of that nature.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, It tends to the scandal and disgrace of the Art of Painting within our <hi>English</hi> Nation.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, It hath been upon several Debates by the Painters against the Plaisterers, declared by Law, to be on the Painters side; but to avoid these Strifes and Debat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Explanation of the aforesaid <hi>Proviso,</hi> is humbly offered.</p>
+               <p>The Charter, which creates the Company of Plaisterers, gives them the name of <hi>Dawbers;</hi> neither is there any Charter, wherein Colours are mentioned, but th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> use of Lath, Loam, and Lime, is onely granted them.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
